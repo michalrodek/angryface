@@ -1,5 +1,4 @@
 import Comments from "./Comments";
-import { FlattenedComment } from "../types";
 import { getData } from "../data";
 import { flattenComments, sortComments } from "../utils";
 
